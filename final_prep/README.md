@@ -1,3 +1,4 @@
+
 # Mod 0 Final Prep
 Congrats on making it to the Mod 0 Final Prep! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work!
 
@@ -32,7 +33,7 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
+- <img width="1131" alt="Screen Shot 2021-07-21 at 4 22 57 PM" src="https://user-images.githubusercontent.com/69017022/126567796-c5230ee1-7e85-4515-89c9-7db2f6409a7a.png">
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
 
